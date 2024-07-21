@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "total-2-no-client-side-solution",
+    "id": "e557f768-0d89-4901-a80a-6031c595d886",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.19.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "total-2-no description"
+      },
+      "longDescription": {
+        "default": "total-2-no description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "total-2-no Feature",
+        "description": "The feature that activates elements of the total-2-no solution.",
+        "id": "f6a7cf1a-0d41-4835-9e4d-c28c55b25edb",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/total-2-no.sppkg"
+  }
+}
